@@ -1,4 +1,7 @@
 // Formatting, Linting
 // Formatting: Prettier
-console.log('Hello, world!')
-// prettier setting done
+
+exports = 3
+const x = 1
+/* eslint-disable-next-line no-console */
+console.log(x)
